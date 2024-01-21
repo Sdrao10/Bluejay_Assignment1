@@ -1,0 +1,163 @@
+OutPUt of the Given Assignment 
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Position id and name of employees who has worked for 7 consecutive days
+************************************************************************************
+ID is ->           WFS000101
+Employee name ->   Sparks, KeWWeMh
+ID is ->           WFS000424
+Employee name ->   SiWgh, JaspreeM
+ID is ->           WFS000456
+Employee name ->   CEreira Jr, JEse
+ID is ->           WFS000473
+Employee name ->   GAeWdia, JAaW CarXEs
+************************************************************************************
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  position id and name of employee who have less than 10 hours of time between shifts but greater than 1 hour
+*************************************************
+ID is ->           WFS000153
+Employee name ->   CaMaXaWE, CeghaW
+------------------------------------------------
+ID is ->           WFS000153
+Employee name ->   CaMaXaWE, CeghaW
+------------------------------------------------
+ID is ->           WFS000200
+Employee name ->   Xee, XaCar
+------------------------------------------------
+ID is ->           WFS000200
+Employee name ->   Xee, XaCar
+------------------------------------------------
+ID is ->           WFS000318
+Employee name ->   De Xa Cerda, IgWaciE
+------------------------------------------------
+ID is ->           WFS000456
+Employee name ->   CEreira Jr, JEse
+------------------------------------------------
+ID is ->           WFS000515
+Employee name ->   GrACfieXd, CErWeXiAs
+------------------------------------------------
+ID is ->           WFS000523
+------------------------------------------------
+ID is ->           WFS000536
+Employee name ->   HaCiXMEW, DeaWMe DevEW
+------------------------------------------------
+ID is ->           WFS000550
+Employee name ->   REdrigAez, GraWdEW AWgeX
+------------------------------------------------
+*****************************************************
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ID and Name of Employee Who has worked for more than 14 hours in a single shift
+*****************************************************
+WFS000523
+DeXgadiXXE REdarMe, ChrisMiaW S 1038
+*****************************************************
+PS C:\Users\Sandeep\Desktop\New folder (3)> python -u "c:\Users\Sandeep\Desktop\New folder (3)\assignment3.py"
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Position id and name of employees who has worked for 7 consecutive days
+************************************************************************************
+ID is ->           WFS000101
+Employee name ->   Sparks, KeWWeMh
+ID is ->           WFS000424
+Employee name ->   SiWgh, JaspreeM
+ID is ->           WFS000456
+Employee name ->   CEreira Jr, JEse
+ID is ->           WFS000473
+Employee name ->   GAeWdia, JAaW CarXEs
+************************************************************************************
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  position id and name of employee who have less than 10 hours of time between shifts but greater than 1 hour
+*************************************************
+ID is ->           WFS000153
+Employee name ->   CaMaXaWE, CeghaW
+------------------------------------------------
+ID is ->           WFS000153
+Employee name ->   CaMaXaWE, CeghaW
+------------------------------------------------
+ID is ->           WFS000200
+Employee name ->   Xee, XaCar
+------------------------------------------------
+ID is ->           WFS000200
+Employee name ->   Xee, XaCar
+------------------------------------------------
+ID is ->           WFS000318
+Employee name ->   De Xa Cerda, IgWaciE
+------------------------------------------------
+ID is ->           WFS000456
+Employee name ->   CEreira Jr, JEse
+------------------------------------------------
+ID is ->           WFS000515
+Employee name ->   GrACfieXd, CErWeXiAs
+------------------------------------------------
+ID is ->           WFS000523
+------------------------------------------------
+ID is ->           WFS000536
+Employee name ->   HaCiXMEW, DeaWMe DevEW
+------------------------------------------------
+ID is ->           WFS000550
+Employee name ->   REdrigAez, GraWdEW AWgeX
+------------------------------------------------
+*****************************************************
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ID and Name of Employee Who has worked for more than 14 hours in a single shift
+*****************************************************
+WFS000523
+DeXgadiXXE REdarMe, ChrisMiaW S
+*****************************************************
+PS C:\Users\Sandeep\Desktop\New folder (3)> python -u "c:\Users\Sandeep\Desktop\New folder (3)\assignment3.py"
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Position id and name of employees who has worked for 7 consecutive days
+************************************************************************************
+ID is ->           WFS000101
+Employee name ->   Sparks, KeWWeMh
+ID is ->           WFS000424
+Employee name ->   SiWgh, JaspreeM
+ID is ->           WFS000456
+Employee name ->   CEreira Jr, JEse
+ID is ->           WFS000473
+Employee name ->   GAeWdia, JAaW CarXEs
+************************************************************************************
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  position id and name of employee who have less than 10 hours of time between shifts but greater than 1 hour
+*************************************************
+ID is ->           WFS000153
+Employee name ->   CaMaXaWE, CeghaW
+------------------------------------------------
+ID is ->           WFS000153
+Employee name ->   CaMaXaWE, CeghaW
+------------------------------------------------
+ID is ->           WFS000200
+Employee name ->   Xee, XaCar
+------------------------------------------------
+ID is ->           WFS000200
+Employee name ->   Xee, XaCar
+------------------------------------------------
+ID is ->           WFS000318
+Employee name ->   De Xa Cerda, IgWaciE
+------------------------------------------------
+ID is ->           WFS000456
+Employee name ->   CEreira Jr, JEse
+------------------------------------------------
+ID is ->           WFS000515
+Employee name ->   GrACfieXd, CErWeXiAs
+------------------------------------------------
+ID is ->           WFS000523
+Employee name ->   DeXgadiXXE REdarMe, ChrisMiaW S
+------------------------------------------------
+ID is ->           WFS000536
+Employee name ->   HaCiXMEW, DeaWMe DevEW
+------------------------------------------------
+ID is ->           WFS000550
+Employee name ->   REdrigAez, GraWdEW AWgeX
+------------------------------------------------
+*****************************************************
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  ID and Name of Employee Who has worked for more than 14 hours in a single shift
+*****************************************************
+ID is ->           WFS000523
+Employee name ->   DeXgadiXXE REdarMe, ChrisMiaW S
+*****************************************************
