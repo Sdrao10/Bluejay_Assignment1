@@ -1,3 +1,8 @@
+first you have to install openpyxl
+using this command
+
+pip install openpyxl 
+
 OutPUt of the Given Assignment 
 
 
